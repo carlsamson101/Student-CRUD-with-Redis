@@ -1,0 +1,6 @@
+id,name,email,contact,college,course,age,address
+1,John Doe,johndoe@example.com,1234567890,COE,Computer Science,21,123 Main St
+2,Jane Smith,janesmith@example.com,0987654321,CCS,Information Technology,22,456 Oak Ave
+3,Mark Johnson,markj@example.com,1122334455,CED,Education,23,789 Pine Rd
+4,Lisa White,lisawhite@example.com,6677889900,CASS,Psychology,20,321 Maple Ln
+5,Michael Brown,michaelb@example.com,5544332211,CEBA,Business Management,24,654 Cedar St
